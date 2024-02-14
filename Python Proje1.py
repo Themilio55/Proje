@@ -10,4 +10,4 @@ def flatten(l):
     return flatten_list
 
 
-print(flatten(input_list))
+flatten(input_list)
